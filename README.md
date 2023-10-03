@@ -1,8 +1,4 @@
-banner
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others. Video about GitHub Profile README
+# MY WEATHER APP
 
-Feel free to add your own or someone else's profile README if you find it super awesome!
-
-Don't forget to leave a if you find this repo useful ⭐
-
-Thankyou🎆
+sample image
+![React-App](https://github.com/developersajidxyz/My-Weather-App/assets/131254848/4304a8d0-c18d-4a9c-8ddf-f6664affa6a4)
